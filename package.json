@@ -1,0 +1,32 @@
+{
+  "name": "http-server-api",
+  "version": "0.0.1",
+  "description": "Mostly used for DF, but will work on other servers.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "minecraft-protocol": "^1.8.3",
+    "url": "^0.11.0",
+    "delay": "^4.1.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https:/github.com/team-renaissance/http-server-api/"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "http",
+    "api",
+    "minecraft",
+    "mc",
+    "df",
+    "diamondfire",
+    "mcdiamondfire"
+  ]
+}
